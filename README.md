@@ -21,8 +21,8 @@ To create a program that adds two numbers and displays the result. This demonstr
 ```
 /*
 Program to display animation operation”.
-Developed by:SHARVESHWARAN SS
-Registeration Number :212224220096
+Developed by:THAMEEZ AHMED  A
+Registeration Number :212224220116
 */
 ```
 Activity_main.xml
